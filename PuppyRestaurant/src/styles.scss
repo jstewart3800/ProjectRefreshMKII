@@ -1,2 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/scss/bootstrap";
+
+body{
+    background-image: url(assets/bgtexture.jpg);
+}
+
+.twenFugaz{
+    font-family: 'Fugaz One', cursive;
+    font-size: 20px;
+    color:#5F002B;
+}
+
+.thirtFugaz{
+    font-family: 'Fugaz One', cursive;
+    font-size: 30px;
+    color: #5F002B;
+}
+
+.fiFugaz{
+    font-family: 'Fugaz One', cursive;
+    font-size: 50px;
+    color: #5F002B;
+}
+
+.dRed{
+    color:#5F002B !important;
+}
