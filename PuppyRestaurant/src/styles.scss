@@ -1,6 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/scss/bootstrap";
 
+@font-face {
+    font-family: rMontauk;
+    src: url(assets/fonts/Montauk-Regular.otf);
+}
+
 body{
     background-image: url(assets/bgtexture.jpg);
 }
@@ -60,4 +65,21 @@ body{
     background-size: cover;
     height: 500px;
     margin-bottom: 90px;
+}
+
+.montauk{
+    font-family: rMontauk;
+    color: #5F002B;
+}
+
+.twenMontauk{
+    font-family: rMontauk;
+    font-size: 20px;
+    color:  #5F002B;
+}
+
+.EZp{
+    font-family: rMontauk;
+    font-size: 12px;
+    color:  #5F002B;
 }
