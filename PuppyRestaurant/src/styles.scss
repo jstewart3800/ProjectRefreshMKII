@@ -23,6 +23,41 @@ body{
     color: #5F002B;
 }
 
+.EZFugaz{
+
+    font-family: 'Fugaz One', cursive;
+    font-size: 40px;
+    color: #5F002B;
+}
+
+.EZp{
+    font-family: Montauk;
+    font-size: 12px;
+    color:  #5F002B;
+}
+
 .dRed{
     color:#5F002B !important;
+}
+
+.bgWhite{
+    background-color:white;
+}
+
+.card{
+    background-color: #ffffff00;
+    border: none;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.underline{
+    border-bottom: 2px #980051 solid;
+}
+
+.cateringHero{
+    background-image: url(assets/cateringHero.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 90px;
 }
